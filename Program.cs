@@ -12,6 +12,7 @@ namespace ColoradoGrandLodgeMapParser
         public static async Task Run() { 
             string url = "http://www.coloradofreemasons.org/lodges/lodges2.php";
             string cacheFile = System.IO.Path.Join(System.IO.Path.GetTempPath(), "co_grand_lodge_cache.html");
+            Console.WriteLine("Cache: " + cacheFile);
             string html = "";
             if (System.IO.File.Exists(cacheFile))
                 html = await System.IO.File.ReadAllTextAsync(cacheFile);

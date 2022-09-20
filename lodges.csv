@@ -1,0 +1,108 @@
+Number,Name,StreetAddress,City,ZipCode,Website,MeetingSchedule,RecessInfo,GeoLat,GeoLong
+1,Golden City,"400 Tenth Street,",Golden,80401,http://coloradofreemasons.org/subDomains/goldencity1/,Meets on the 1st and 3rd Mondays at 1900 hours.,Recess: July and August,39.7126,-105.23
+4,Nevada,"Main Street,",Nevadaville,80403,http://coloradofreemasons.org/subDomains/nevada4/,Meets on the 2nd Saturday at 1800 hours.,Recess: None,39.8552,-105.27
+5,Denver,"1614 Welton Street,",Denver,80202,http://coloradofreemasons.org/subDomains/denver5/,Meets on the 1st and 3rd Thursdays at 1930 hours.,"Recess: June, July and August",39.7494,-104.994
+6,Central,"111 Eureka Street,",Central City,80422,http://coloradofreemasons.org/subDomains/central6/,Meets on the 2nd Wednesday at 1800 hours.,"Recess: January, February, March and April",39.8214,-105.5
+7,Union,"1614 Welton Street,",Denver,80202,http://coloradofreemasons.org/subDomains/union7/,Meets on the 2nd and 4th Saturdays at 1800 hours.,"Recess: June, July and August",39.7494,-104.994
+11,Black Hawk,"4625 Morrison Road,",Denver,80219,http://coloradofreemasons.org/subDomains/blackhawk11/,Meets on the 2nd and 4th Thursdays at 1900 hours.,"Recess: June, July and August",39.6983,-105.033
+12,Georgetown,"604 6th Street,",Georgetown,80444,http://coloradofreemasons.org/subDomains/georgetown12/,Meets on the 2nd Friday at 1900 hours.,Recess: None,39.7083,-105.694
+13,El Paso,"1150 Panorama Drive,",Colorado Springs,80904,http://coloradofreemasons.org/subDomains/elpaso13/,Meets on the 2nd and 4th Fridays at 1900 hours.,Recess: July and August,38.8551,-104.865
+14,Boulder,"4665 Nautilus Court South Suite 100,",Boulder,80301,http://coloradofreemasons.org/subDomains/columbia14/,Meets on the 1st and 3rd Tuesdays at 1900 hours.,Recess: July and August,40.0454,-105.213
+15,Mount Moriah,"114 South Sixth Street,",Canon City,81212,http://coloradofreemasons.org/subDomains/mountmoriah15/,Meets on the 2nd Thursday at 1800 hours.,Recess: None,38.4487,-105.233
+17,Pueblo,"126 Broadway Avenue,",Pueblo,81004,http://coloradofreemasons.org/subDomains/pueblo17/,Meets on the 2nd and 4th Mondays at 1930 hours.,Recess: July and August,38.2262,-104.661
+19,Collins,"225 West Oak Street,",Fort Collins,80521,http://coloradofreemasons.org/subDomains/collins19/,Meets on the 1st and 3rd Wednesdays at 1930 hours.,"Recess: June, July and August",40.585,-105.114
+22,Weston,"5718 South Rapp Street,",Littleton,80120,http://coloradofreemasons.org/subDomains/weston22/,Meets on the 1st and 3rd Wednesdays at 1900 hours.,Recess: July and August,39.6009,-105.006
+23,Saint Vrain,"312 Main Street,",Longmont,80501,http://coloradofreemasons.org/subDomains/saintvrain23/,Meets on the 2nd and 4th Thursdays at 1930 hours.,Recess: July and August,40.1668,-105.135
+25,Doric,"422 Hathaway Street,",Fairplay,80440,http://coloradofreemasons.org/subDomains/doric25/,Meets on the 1st and 3rd Wednesdays at 1830 hours.,"Recess: January, February and December",39.2079,-106.002
+26,Idaho Springs,"210 17th Avenue,",Idaho Springs,80452,http://coloradofreemasons.org/subDomains/idahosprings26/,Meets on the 1st and 3rd Wednesdays at 1930 hours.,Recess: None,39.7364,-105.523
+28,Trinidad,"132 East Main Street,",Trinidad,81082,http://coloradofreemasons.org/subDomains/trinidad28/,Meets on the 2nd and 4th Tuesdays at 1930 hours.,Recess: January and February,37.1739,-104.513
+31,South Pueblo,"126 Broadway Avenue,",Pueblo,81004,http://coloradofreemasons.org/subDomains/southpueblo31/,Meets on the 1st and 3rd Thursdays at 1900 hours.,Recess: July and August,38.2262,-104.661
+32,Olive Branch,"416 4th Street,",Saguache,81149,http://coloradofreemasons.org/subDomains/olivebranch32/,Meets on the 3rd Saturday at 1900 hours.,Recess: July and August,38.0814,-106.132
+34,Crystal Lake,"215 Silver Street,",Lake City,81235,http://coloradofreemasons.org/subDomains/crystalcity34/,Meets on the 1st Tuesday at 1900 hours.,Recess: January and February,38.0231,-107.317
+35,Corinthian,"619 Harrison Avenue,",Leadville,80461,http://coloradofreemasons.org/subDomains/corinthian35/,Meets on the 1st and 3rd Thursdays at 1930 hours.,Recess: None,39.2496,-106.298
+37,Ouray,"441 Main Street,",Ouray,81427,http://coloradofreemasons.org/subDomains/ouray37/,Meets on the 2nd and 4th Wednesdays at 1930 hours.,"Recess: January, February and March",38.0588,-107.702
+39,Gunnison Valley,"122 North Iowa Street,",Gunnison,81230,http://coloradofreemasons.org/subDomains/gunnisonvalley39/,Meets on the 2nd and 4th Tuesdays at 1930 hours.,Recess: July and August,38.5653,-106.95
+41,Marquis de Lafayette,"1614 Welton St,",Denver,80202,http://coloradofreemasons.org/subDomains/marquisdelafayette41/,Meets on the 2nd and 4th Wednesdays at 1900 hours.,Recess: None,39.7494,-104.994
+44,Alamosa,"512 San Juan Avenue,",Alamosa,81101,http://coloradofreemasons.org/subDomains/alamosa44/,Meets on the 1st and 3rd Thursdays at 1900 hours.,Recess: None,37.473,-105.867
+46,Durango/San Juan,"421 Turner Drive,",Durango,81303,http://coloradofreemasons.org/subDomains/durangosanjuan46/,Meets on the 1st and 3rd Thursdays at 1900 hours.,"Recess: June, July and August",37.2758,-107.877
+47,Breckenridge,"15992 Highway 9 North,",Breckenridge,80424,http://coloradofreemasons.org/subDomains/breckenridge47/,Meets on the 2nd and 4th Thursdays at 1930 hours.,Recess: July and August,39.4722,-106.041
+49,Mount Princeton,"140 West 3rd St.,",Salida,81201,http://coloradofreemasons.org/subDomains/mountprinceton49/,Meets on the 2nd and 4th Thursdays at 1930 hours.,"Recess: January, February and March",38.5468,-106.035
+50,Garfield,"2029 Highway 66,",Longmont,80504,http://coloradofreemasons.org/subDomains/garfield50/,Meets on the 2nd and 4th Wednesdays at 1900 hours.,Recess: July and August,40.1601,-104.966
+54,Sterling,"198 Springdale Road,",Sterling,80751,http://coloradofreemasons.org/subDomains/sterling54/,Meets on the 1st and 3rd Tuesdays at 1930 hours.,"Recess: June, July and August",40.6363,-103.211
+55,Mesa,"2400 Consistory Court,",Grand Junction,81501,http://coloradofreemasons.org/subDomains/mesa55/,Meets on the 1st Thursday at 1900 hours.,Recess: None,39.0805,-108.541
+56,Telluride,"200 East Colorado,",Telluride,81435,http://coloradofreemasons.org/subDomains/telluride56/,Meets on the 2nd Saturday at 1000 hours.,Recess: None,37.9799,-107.941
+57,Salida,"140 West 3rd Street,",Salida,81201,http://coloradofreemasons.org/subDomains/salida57/,Meets on the 2nd Monday at 1900 hours.,Recess: January and February,38.5468,-106.035
+59,La Veta,"136 East Field Street,",La Veta,81055,http://coloradofreemasons.org/subDomains/laveta59/,Meets on the 1st and 3rd Wednesdays at 1900 hours.,"Recess: January, February and March",37.4603,-105.053
+61,Harmony,"350 South Broadway,",Denver,80209,http://coloradofreemasons.org/subDomains/harmony61/,Meets on the 1st and 3rd Mondays at 1900 hours.,"Recess: June, July and August",39.7044,-104.959
+62,Delta,"437 Main Street,",Delta,81416,http://coloradofreemasons.org/subDomains/delta62/,Meets on the 2nd and 4th Mondays at 1930 hours.,Recess: July and August,38.7407,-108.05
+63,Montrose,"187 Rose Lane,",Montrose,81401,http://coloradofreemasons.org/subDomains/montrose63/,Meets on the 1st and 3rd Tuesdays at 1900 hours.,Recess: July and August,38.4705,-107.886
+65,Glenwood,"901 Colorado Avenue,",Glenwood Springs,81601,http://coloradofreemasons.org/subDomains/glenwood65/,Meets on the 2nd Thursday at 1930 hours.,"Recess: June, July and August",39.5284,-107.339
+66,Eureka,"387 Main Street,",Coal Creek,81226,http://coloradofreemasons.org/subDomains/eureka66/,Meets on the 3rd Monday at 1900 hours.,"Recess: June, July and August",38.3902,-105.122
+67,Oasis,"405 Main Street,",Fort Morgan,80701,http://coloradofreemasons.org/subDomains/oasis67/,Meets on the 1st and 3rd Mondays at 1900 hours.,"Recess: June, July and August",40.2566,-103.806
+68,Manitou,"317 East Boulder Street,",Colorado Springs,80903,http://coloradofreemasons.org/subDomains/manitou68/,Meets on the 1st and 3rd Thursdays at 1930 hours.,Recess: July and August,38.8318,-104.819
+71,Wray,"416 1/2 Adams Street,",Wray,80758,http://coloradofreemasons.org/subDomains/wray71/,Meets on the 3rd Tuesday at 1900 hours.,"Recess: June, July and August",40.0322,-102.213
+73,Monte Vista,"40 Batterson Street,",Monte Vista,81144,http://coloradofreemasons.org/subDomains/montevista73/,Meets on the 2nd and 4th Tuesdays at 1930 hours.,Recess: None,37.5666,-106.148
+75,Saint John's,"411 North Main Street,",Rocky Ford,81067,http://coloradofreemasons.org/subDomains/saintjohns75/,Meets on the 1st Thursday at 1930 hours.,Recess: July and August,38.0447,-103.718
+76,Colorado Springs,"1150 Panorama Drive,",Colorado Springs,80904,http://coloradofreemasons.org/subDomains/coloradosprings76/,Meets on the 2nd and 4th Tuesdays at 1930 hours.,Recess: None,38.8551,-104.865
+77,Burlington/Cheyenne Wells,"212 14th Street,",Burlington,80807,http://coloradofreemasons.org/subDomains/burlington77/,Meets on the 2nd and 4th Mondays at 1930 hours.,"Recess: June, July and August",39.3048,-102.247
+78,Brighton,"30 South 7th Avenue,",Brighton,80601,http://coloradofreemasons.org/subDomains/brighton78/,Meets on the 2nd and 4th Thursdays at 1930 hours.,"Recess: June, July and August",39.9641,-104.817
+79,Rico,"31 S. Glasgow St.,",Rico,81320,http://coloradofreemasons.org/subDomains/rico79/,Meets on the 1st Tuesday at 1930 hours.,"Recess: January, February and March",37.6922,-108.758
+80,Rio Blanco,"364 7th Street,",Meeker,81641,http://coloradofreemasons.org/subDomains/rioblanco80/,Meets on the 2nd and 4th Thursdays at 1900 hours.,Recess: July and August,40.0455,-107.947
+84,Centennial,"1614 Welton St.,",Denver,80202,http://coloradofreemasons.org/subDomains/centennial84/,Meets on the 2nd Thursday at 1900 hours.,Recess: None,39.7494,-104.994
+86,Highlands,"3550 Federal Boulevard,",Denver,80211,http://coloradofreemasons.org/subDomains/highlands86/,Meets on the 1st and 3rd Fridays at 1830 hours.,Recess: July and August,39.768,-105.014
+87,Oriental,"1614 Welton Street,",Denver,80202,http://coloradofreemasons.org/subDomains/oriental87/,Meets on the 1st and 3rd Wednesdays at 1900 hours.,"Recess: June, July and August",39.7494,-104.994
+90,Lamar,"219 South Main Street,",Lamar,81052,http://coloradofreemasons.org/subDomains/lamar90/,Meets on the 2nd and 4th Thursdays at 1930 hours.,Recess: July and August,38.081,-102.615
+91,Lafayette,"701 West Baseline Road,",Lafayette,80026,http://coloradofreemasons.org/subDomains/lafayette91/,Meets on the 2nd and 4th Wednesdays at 1900 hours.,"Recess: June, July and August",40.0005,-105.099
+93,South Denver,"350 South Broadway,",Denver,80209,http://coloradofreemasons.org/subDomains/southdenver93/,Meets on the 1st and 3rd Tuesdays at 1915 hours.,"Recess: June, July and August",39.7044,-104.959
+94,Amethyst,"131 North Main Street (South of Court),",Creede,81130,http://coloradofreemasons.org/subDomains/amethyst94/,Meets on the 1st Thursday at 1900 hours.,Recess: None,37.843,-106.927
+95,Silver State,"126 Broadway Avenue,",Pueblo,81004,http://coloradofreemasons.org/subDomains/silverstate95/,Meets on the 2nd and 4th Thursdays at 1930 hours.,Recess: July and August,38.2262,-104.661
+96,Cripple Creek,"75 Buffalo Court,",Divide,80814,http://coloradofreemasons.org/subDomains/cripplecreek96/,Meets on the 2nd Thursday at 1900 hours.,Recess: None,38.942,-105.181
+100,Mancos,"141 East Montezuma Avenue,",Mancos,81328,http://coloradofreemasons.org/subDomains/mancos100/,Meets on the 1st and 3rd Tuesdays at 1900 hours.,Recess: None,37.3693,-108.349
+102,Mount Lamborn,"178 East Hotchkiss Ave,",Hotchkiss,81419,http://coloradofreemasons.org/subDomains/mountlamborn102/,Meets on the 1st and 3rd Tuesdays at 1930 hours.,Recess: July and August,38.8171,-107.749
+104,Tejon,"1150 Panorama Drive,",Colorado Springs,80904,http://coloradofreemasons.org/subDomains/tejon104/,Meets on the 3rd Monday at 1930 hours.,Recess: July and August,38.8551,-104.865
+105,Del Norte,"598 Spruce Street or Masonic Park [check website],",Del Norte,81132,http://coloradofreemasons.org/subDomains/delnorte105/,Meets on the 1st and 3rd Mondays at 1900 hours.,Recess: None,37.686,-106.381
+111,Norwood,"395 Main Street,",Nucla,81424,http://coloradofreemasons.org/subDomains/norwood111/,Meets on the 1st and 3rd Thursdays at 2000 hours.,Recess: None,38.2654,-108.553
+114,Pagosa,"227 Lewis Street,",Pagosa Springs,81147,http://coloradofreemasons.org/subDomains/pagosa114/,Meets on the 1st Tuesday at 1900 hours.,Recess: None,37.2565,-107.087
+116,Kiowa,"304 Pawnee,",Kiowa,80117,http://coloradofreemasons.org/subDomains/kiowa116/,Meets on the 3rd Friday at 1930 hours.,Recess: None,39.3287,-104.451
+118,Elk Mountain,"111 8th Street,",Steamboat Springs,80487,http://coloradofreemasons.org/subDomains/elkmountain118/,Meets on the 2nd Wednesday at 1930 hours.,Recess: JulyNone,40.4881,-106.869
+119,Lupton,"130 Denver Avenue,",Fort Lupton,80621,http://coloradofreemasons.org/subDomains/lupton119/,Meets on the 1st Monday at 1900 hours.,"Recess: June, July and August",40.0999,-104.805
+120,Fruita Masonic,"106 North Mulberry,",Fruita,81521,http://coloradofreemasons.org/subDomains/fruitamasonic120/,Meets on the 3rd Tuesday at 1900 hours.,Recess: July and August,39.1655,-108.721
+121,Paonia,"223 1/2 Grand Avenue,",Paonia,81428,http://coloradofreemasons.org/subDomains/paonia121/,Meets on the 1st Monday at 1930 hours.,"Recess: July, August and September",38.8667,-107.596
+122,Castle,"130 East 3rd Street,",Eagle,81631,http://coloradofreemasons.org/subDomains/castle122/,Meets on the 2nd and 4th Mondays at 1930 hours.,"Recess: June, July and August",39.6466,-106.837
+123,Brush,"301 Carson Street,",Brush,80723,http://coloradofreemasons.org/subDomains/brush123/,Meets on the 1st and 3rd Tuesdays at 1900 hours.,"Recess: June, July and August",40.2502,-103.619
+125,Palisade,"2400 Consistory Ct.,",Grand Junction,81501,http://coloradofreemasons.org/subDomains/palisade125/,Meets on the 1st Saturday at 1000 hours.,Recess: None,39.0805,-108.541
+129,Rifle,"421 Railroad Ave,",Rifle,81650,http://coloradofreemasons.org/subDomains/rifle129/,Meets on the 2nd Saturday at 1000 hours.,"Recess: June, July and August",39.5402,-107.791
+130,Paul Revere,"8151 Bradburn Drive,",Westminster,80031,http://coloradofreemasons.org/subDomains/paulrevere130/,Meets on the 1st and 3rd Wednesdays at 1900 hours.,"Recess: June, July and August",39.8619,-105.041
+133,Cortez,"304 East First Street,",Cortez,81321,http://coloradofreemasons.org/subDomains/cortez133/,Meets on the 1st and 3rd Thursdays at 1930 hours.,Recess: July and August,37.3552,-108.605
+134,New Frontier,"225 Acoma Street,",Denver,80223,http://coloradofreemasons.org/subDomains/newfrontier134/,Meets on the 1st and 3rd Thursdays at 1900 hours.,Recess: July and August,39.6983,-105.003
+136,Eckert,"311 West Main Street,",Cedaredge,81413,http://coloradofreemasons.org/subDomains/eckert136/,Meets on the 2nd and 4th Tuesdays at 1930 hours.,Recess: July and August,38.9121,-107.922
+138,South Gate,"15 East Iowa Street,",Denver,80210,http://coloradofreemasons.org/subDomains/southgate138/,Meets on the 1st and 3rd Thursdays at 1900 hours.,"Recess: June, July and August",39.6754,-104.962
+145,Montezuma,"400 Riverside Ave,",Dolores,81323,http://coloradofreemasons.org/subDomains/montezuma145/,Meets on the 4th Thursday at 1930 hours.,Recess: July and August,37.4554,-108.516
+146,Lincoln,"215 E Avenue,",Limon,80828,http://coloradofreemasons.org/subDomains/lincoln146/,Meets on the 1st Monday at 1900 hours.,"Recess: July, August and September",39.2614,-103.688
+147,Columbine,"225 Acoma Street,",Denver,80223,http://coloradofreemasons.org/subDomains/columbine147/,Meets on the 2nd and 4th Wednesdays at 1900 hours.,"Recess: June, July and August",39.6983,-105.003
+148,Park Hill,"4819 Montview Boulevard,",Denver,80207,http://coloradofreemasons.org/subDomains/parkhill148/,Meets on the 1st and 3rd Thursdays at 1900 hours.,"Recess: June, July and August",39.7573,-104.913
+152,Byers,"310 West Front Street,",Byers,80103,http://coloradofreemasons.org/subDomains/byers152/,Meets on the 2nd and 4th Saturdays at 1900 hours.,Recess: July and August,39.6637,-104.136
+153,Douglas,"300 Wilcox Street,",Castle Rock,80104,http://coloradofreemasons.org/subDomains/douglas153/,Meets on the 1st and 3rd Thursdays at 1930 hours.,Recess: July and August,39.3904,-104.859
+156,Aurora Revelation,"1625 Florence Street,",Aurora,80010,http://coloradofreemasons.org/subDomains/aurorarevelation156/,Meets on the 2nd and 4th Tuesdays at 1900 hours.,Recess: July and August,39.7358,-104.865
+160,East Denver,"1370 Grant Street,",Denver,80203,http://coloradofreemasons.org/subDomains/eastdenver160/,Meets on the 2nd and 4th Wednesdays at 1830 hours.,"Recess: June, July and August",39.7314,-104.982
+161,George Washington,"15 East Iowa Street,",Denver,80210,http://coloradofreemasons.org/subDomains/georgewashington161/,Meets on the 2nd Tuesday at 1900 hours.,"Recess: June, July and August",39.6754,-104.962
+165,Ramah,"2 South Commercial Street,",Ramah,80832,http://coloradofreemasons.org/subDomains/ramah165/,Meets on the 2nd Monday at 1930 hours.,Recess: None,39.0881,-104.082
+167,Egeria,"395 Main Street,",Yampa,80479,http://coloradofreemasons.org/subDomains/egeria167/,Meets on the 3rd Thursday at 1900 hours.,"Recess: January, February, March, May, July, August and September",40.0501,-106.835
+169,Lawrence N. Greenleaf,"1614 Welton Street,",Denver,80203,http://coloradofreemasons.org/subDomains/lawrencengreenleaf169/,Meets on the 1st and 3rd Tuesdays at 1900 hours.,"Recess: June, July and August",39.7314,-104.982
+170,Lakewood,"2460 Youngfield St.,",Lakewood,80215,http://coloradofreemasons.org/subDomains/lakewood170/,Meets on the 2nd Tuesday at 1830 hours.,Recess: None,39.7451,-105.104
+171,Jacques Demolay,"1370 Grant St.,",Denver,80203,http://coloradofreemasons.org/subDomains/jacquesdemlay171/,Meets on the 2nd and 4th Fridays at 1930 hours.,"Recess: June, July and August",39.7314,-104.982
+173,Grand Junction,"2400 Consistory Court,",Grand Junction,81501,http://coloradofreemasons.org/subDomains/grandjunction173/,Meets on the 2nd Friday at 1930 hours.,Recess: July and August,39.0805,-108.541
+174,Joppa Daylight,"225 Acoma Street,",Denver,80223,http://coloradofreemasons.org/subDomains/joppadaylight174/,Meets on the 1st and 3rd Tuesdays at 1215 hours.,"Recess: June, July and August",39.6983,-105.003
+182,Miracle,"2255 Lake Avenue,",Eastlake,80241,http://coloradofreemasons.org/subDomains/miracle182/,Meets on the 1st and 3rd Mondays at 1900 hours.,"Recess: June, July and August",39.9261,-104.959
+184,Mosaic,"2255 Lake Avenue,",Eastlake,80241,http://coloradofreemasons.org/subDomains/mosaic184/,Meets on the 2nd and 4th Mondays at 1930 hours.,Recess: July and August,39.9261,-104.959
+188,Ute Pass,"205 North Park Street,",Woodland Park,80863,http://coloradofreemasons.org/subDomains/utepass188/,Meets on the 3rd Tuesday at 1900 hours.,Recess: None,38.993,-105.071
+190,Century,"2532 9th Avenue,",Greeley,80631,http://coloradofreemasons.org/subDomains/century190/,Meets on the 1st and 3rd Thursdays at 1930 hours.,"Recess: June, July and August",40.4181,-104.708
+191,Fountain Valley,"509 North Main Street,",Fountain,80817,http://coloradofreemasons.org/subDomains/fountainvalley191/,Meets on the 1st Tuesday at 1930 hours.,Recess: July and August,38.6986,-104.697
+192,Fidelity,"225 West Oak Street,",Fort Collins,80521,http://coloradofreemasons.org/subDomains/fidelity192/,Meets on the 2nd and 4th Thursdays at 1930 hours.,"Recess: June, July and August",40.585,-105.114
+194,Northglenn,"2255 Lake Avenue,",Eastlake,80241,http://coloradofreemasons.org/subDomains/northglenn194/,Meets on the 1st and 3rd Tuesdays at 1930 hours.,Recess: July and August,39.9261,-104.959
+195,Centurion,"18275 Furrow Road,",Monument,80132,http://coloradofreemasons.org/subDomains/centurion195/,Meets on the 4th Tuesday at 1900 hours.,Recess: DecemberNone,39.1002,-104.85
+197,Longs Peak,"4350 South County Road 15H,",Loveland,80537,http://coloradofreemasons.org/subDomains/longspeak197/,Meets on the 1st and 3rd Thursdays at 1900 hours.,"Recess: June, July and August",40.3476,-105.092
+198,Enlightenment,"1150 Panorama Drive,",Colorado Springs,80904,http://coloradofreemasons.org/subDomains/enlightenment198/,Meets on the 2nd Wednesday at 1830 hours.,"Recess: February, April, June, August, October and December",38.8551,-104.865
+199,Lumen Artis,"4350 S County Road 15H
+,",Loveland,80537,http://coloradofreemasons.org/subDomains/lumenartis199/,Meets on the 1st and 3rd Wednesdays at 1900 hours.,Recess: None,40.3476,-105.092
+0,,,,,,,,,
